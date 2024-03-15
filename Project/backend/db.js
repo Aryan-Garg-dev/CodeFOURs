@@ -1,7 +1,8 @@
 const mongoose = require("mongoose");
 const bcrypt = require("bcrypt");
 
-mongoose.connect("mongodb+srv://admin-2024:AryanGargVIT23@cluster0.vcusnju.mongodb.net/ClubConnect");
+require('dotenv').config();
+mongoose.connect(process.env.DB_HOST);
 
 const userSchema = new mongoose.Schema({
     username: {
