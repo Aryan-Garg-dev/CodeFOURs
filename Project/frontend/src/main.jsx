@@ -5,10 +5,11 @@ import './index.css'
 
 import { createClient } from "@supabase/supabase-js"
 import { SessionContextProvider } from "@supabase/auth-helpers-react";
+import { API_URL, API_KEY } from '../config.js'
 
 const supabase = createClient(
-  "https://hximvjzbghwhlbasgjjg.supabase.co", //project-url 
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh4aW12anpiZ2h3aGxiYXNnampnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTAzMzY0NDksImV4cCI6MjAyNTkxMjQ0OX0.bwm9OxaxsX2aFUnhnl9GsVXOWAn3FYcwzbqA5ZrI7zk"
+  API_URL,
+  API_KEY
 )
 
 ReactDOM.createRoot(document.getElementById('root')).render(
