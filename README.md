@@ -2,7 +2,7 @@
 
 In VIT, students face a challenge navigating through numerous club websites and platforms for event registration. Additionally, important updates are dispersed across various WhatsApp groups and the college's website, VTOP. This fragmented system makes it difficult for students to efficiently discover and engage with clubs and events they're interested in.
 
-## Introducing ClubConnect: Our All-in-One Solution for Campus Engagement!
+## Introducing ** ClubConnect **: Our All-in-One Solution for Campus Engagement!
 
 ClubConnect simplifies campus life by consolidating all club activities onto one convenient platform. Say goodbye to the chaos of scattered websites and WhatsApp groups. With ClubConnect, students can easily explore clubs, register for events, and stay updated on the latest news—all in one place.	
 
