@@ -10,3 +10,16 @@ Our user-friendly website allows clubs to schedule events, post blogs, and engag
 
 Let’s lead the charge in revolutionizing campus engagement with ClubConnect—making the VIT community more accessible and connected than ever before!
 
+## Tech Stack Used : MERN Stack
+
+Our website, powered by the dynamic MERN stack, is built on React for seamless user interactions. With sleek HTML components styled using Tailwind CSS, we ensure a visually appealing experience. Leveraging JavaScript, we integrate essential functionalities effortlessly. We harness various APIs for email communication, calendar synchronization, and real-time alerts, ensuring our platform is robust and feature-rich.
+
+## Future Prospect :
+With a solid foundation built on the MERN stack and a user-centric design approach, we have the flexibility to scale and adapt to the evolving needs of students and clubs.
+
+Beyond simplifying club management and event discovery at VIT, we see potential partnerships with universities, student organizations, and event sponsors, opening up opportunities for collaboration and growth. 
+
+Furthermore, the data generated through ClubConnect presents exciting possibilities for analytics and research. By analyzing trends in club participation, event attendance, and user engagement, we can gain valuable insights into campus dynamics and student interests. 
+
+
+
